@@ -122,7 +122,7 @@ def main():
     print_legal_warning()
     while True:
         main_options = {
-            '1': "Basic Scan",
+            '1': "Basic Scans",
             '2': "Scan Type",
             '3': "Advanced",
             '4': "Output Format & Script",
